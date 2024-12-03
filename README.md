@@ -1,7 +1,7 @@
 # Fashion MNIST CNN Model
 
 ## Overview
-This repository serves to document my learnings in developing a Convolutional Neural Network (CNN) to model the Fashion-MNIST dataset, a popular benchmark for image classification in deep learning. Fashion-MNIST comprises 70,000 28x28 grayscale images of clothing items across 10 categories, including T-shirts, dresses, and sandals. The objective is to build a CNN model that accurately classifies clothing items based on their images.
+This repository serves to document my journey in developing a Convolutional Neural Network (CNN) to model the Fashion-MNIST dataset, a popular benchmark for image classification in deep learning. Fashion-MNIST comprises 70,000 28x28 grayscale images of clothing items across 10 categories, including T-shirts, dresses, and sandals. The objective is to build a CNN model that accurately classifies clothing items based on their images.
 
 ## Getting Started
 ### Pre-requisites
